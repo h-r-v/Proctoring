@@ -23,37 +23,37 @@ This tool is used to proctor the students only based on their surrounding sound.
 
 1. Installing python 3.8.5
 
-		- wget https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tgz
-		- tar -xvf Python-3.8.5.tgz
-		- cd Python-3.8.5
-		- ./configure
-		- make
-		- make altinstall
+	- wget https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tgz
+	- tar -xvf Python-3.8.5.tgz
+	- cd Python-3.8.5
+	- ./configure
+	- make
+	- make altinstall
 
 2. Create virtual environment
 
-		- python3 -m venv env\_LM
+	- python3 -m venv env\_LM
 
 3. Activate environment and install dependencies:
 
-		- source env\_LM/bin/activate
-		- pip install -r requirements.txt
+	- source env\_LM/bin/activate
+	- pip install -r requirements.txt
 
 1. Copy the package to the right path:
 
-		- Copy the &#39;&#39;lip movement AI&quot; dir to the dir where you want to use it.
+	- Copy the &#39;&#39;lip movement AI&quot; dir to the dir where you want to use it.
 
 4. Same use:
 
-		- Use the link provided below to get familiar with how to use the library:
+	- Use the link provided below to get familiar with how to use the library:
 
-		[https://drive.google.com/file/d/1itKL0egPPlfJj9BkVD7p8EsFoKeQfzoz/view?usp=sharing](https://drive.google.com/file/d/1itKL0egPPlfJj9BkVD7p8EsFoKeQfzoz/view?usp=sharing)
+	[https://drive.google.com/file/d/1itKL0egPPlfJj9BkVD7p8EsFoKeQfzoz/view?usp=sharing](https://drive.google.com/file/d/1itKL0egPPlfJj9BkVD7p8EsFoKeQfzoz/view?usp=sharing)
 
 **# Installation and Launching for volume meter**
 
 1. Launching the tool:
 
-		- Launch &#39;index.html&#39;
+	- Launch &#39;index.html&#39;
 
 **# Directory Structure for lip movement AI**
 
